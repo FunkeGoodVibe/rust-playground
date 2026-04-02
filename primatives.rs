@@ -45,7 +45,7 @@ fn main() {
     mutable = true; 
 
     //variables can be overwritten with shadowing 
-    let mutable = true; 
+    let mutable = true;  
 
     /* Compound types - Array and tuple */ 
 
